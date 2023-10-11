@@ -1,11 +1,3 @@
-# Olá, Mundo! 👋
-
-🔍 **Sobre mim:**
-
-Olá! Sou um profissional de TI especializado em DevOps, com uma forte paixão por redes de computadores e cibersegurança. Ao longo da minha trajetória, mergulhei profundamente nas nuances do hospedagem de sites e aplicações, registro de DNS e tarefas correlatas.
-
----
-
 ## 💼 **Experiência e Habilidades:**
 
 - **Redes de Computadores**: Possuo vasto conhecimento em configurações, otimizações e implementações de redes, com foco especial em hospedagem e gerenciamento de domínios.
@@ -16,17 +8,6 @@ Olá! Sou um profissional de TI especializado em DevOps, com uma forte paixão p
 
 ---
 
-## 🔧 **Ferramentas & Tecnologias**
-
-- Terraform
-- Linux (especialmente Pop!_OS)
-- HTML
-- CSS
-- JavaScript
-
----
-
-🔗 **Conecte-se comigo:** [LinkedIn](# Olá, Mundo! 👋
 
 🔍 **Sobre mim:**
 
@@ -58,10 +39,9 @@ Olá! Sou um profissional de TI especializado em DevOps, com uma forte paixão p
 
 ---
 
-🔗 **Conecte-se comigo:** [LinkedIn](sua_url_do_linkedin)
+🔗 **Conecte-se comigo:** [LinkedIn](https://www.linkedin.com/in/enzo-ceravolo/)
 
 📧 **Contato:** enzo.ceravolo@unifesp.br
 
-)
 
 

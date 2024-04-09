@@ -8,10 +8,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
-
-
-
-
 - **Redes de Computadores**: Possuo vasto conhecimento em configurações, otimizações e implementações de redes, com foco especial em hospedagem e gerenciamento de domínios.
 - **Cibersegurança**: Dedico-me à proteção e resiliência de sistemas, sempre atento às mais recentes ameaças e vulnerabilidades.
 - **DevOps**: Minhas habilidades em DevOps são aprimoradas por ferramentas como Terraform, focando na integração contínua, automação e processos de implantação otimizados.
@@ -41,18 +37,12 @@ Ao longo da minha trajetória, mergulhei profundamente nas nuances do hospedagem
 
 ---
 
-
 &nbsp;
 
 - 📚​ Science and Technology student at Federal University of São Paulo - (UNIFESP) &nbsp;<br>
 
 
  &nbsp;
-
-
-
-
-
 
 
 

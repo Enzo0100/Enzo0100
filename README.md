@@ -1,7 +1,7 @@
 ### DevOps and Cloud Technologies
 
 <a href="https://github.com/Enzo0100">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rEnzo0100&show_icons=true&theme=nord">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enzo0100&show_icons=true&theme=nord">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo0100&layout=compact&theme=nord">
 </a>
 

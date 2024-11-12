@@ -1,5 +1,10 @@
 ### DevOps and Cloud Technologies
 
+<a href="https://github.com/Enzo0100">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rEnzo0100&show_icons=true&theme=nord">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo0100&layout=compact&theme=nord">
+</a>
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
